@@ -1,0 +1,3 @@
+config:
+  service:
+    url: http://localhost:9090/instanpe.config.io/config-service/messages
